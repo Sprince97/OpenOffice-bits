@@ -1,2 +1,2 @@
-# OpenOffice-bits
+# OpenOffice
 Exercises covering OpenOffice features
